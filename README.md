@@ -1,45 +1,54 @@
-# vCard - Personal portfolio
+# 🧑‍💻 Yatish Raj — Personal Portfolio Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to my personal portfolio! This is a modern, dark-themed, responsive web application built to showcase my skills, projects, and contact information in a professional and creative way.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+<img width="910" alt="Screenshot 2025-07-04 111055" src="https://github.com/user-attachments/assets/9945dd04-a64e-4c17-bcaa-7d3e643f80ce" />
 
-## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Portfolio Screenshot](./screenshot.png)
 
-## Prerequisites
+## 🔍 About Me
 
-Before you begin, ensure you have met the following requirements:
+I am a **final year Computer Science Engineering student** with hands-on experience in:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- 🔧 Web Development  
+- 🐍 Python Programming  
+- 🎨 UI/UX Design  
+- 📊 Data Analytics  
+- 🤖 Artificial Intelligence
 
-## Installing vCard
+I’m proficient in building front-end web applications and data-driven solutions, with several completed projects across these domains. I’m a creative problem-solver with a **user-first mindset** and a **passion for impactful technology**.
 
-To install **vCard**, follow these steps:
+---
 
-Linux and macOS:
+## 🚀 What I'm Doing
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+| 💼 Services | Description |
+|------------|-------------|
+| 🎨 **Web Design** | The most modern and high-quality designs made at a professional level. |
+| 💻 **Web Development** | High-quality development of websites and projects. |
+| 📊 **Data Analytics** | Delivering actionable insights from data for smart decision-making. |
+| 🐍 **Python Programming** | Automation, backend logic, and AI prototypes using Python. |
 
-Windows:
+---
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+## 📫 Contact Me
 
-## Contact
+- 📧 Email: [yatishraj2003@gmail.com](mailto:yatishraj2003@gmail.com)
+- 📱 Phone: +91 9955954453
+- 🌐 Website: [your-website-link.com](https://your-website-link.com)
+- 💼 LinkedIn: [linkedin.com/in/yatishraj](https://linkedin.com/in/yatishraj)
+- 🐱 GitHub: [github.com/Yatish-369](https://github.com/Yatish-369)
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+---
 
-## License
+## 🛠️ Tech Stack
 
-MIT
-"# yatish-portfolio" 
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js / Next.js *(optional based on tech used)*
+- TailwindCSS / SCSS
+- Python, Pandas, NumPy
+- Figma (for UI/UX design)
+- Git & GitHub
+
+---
