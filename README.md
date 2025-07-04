@@ -5,8 +5,6 @@ Welcome to my personal portfolio! This is a modern, dark-themed, responsive web 
 <img width="910" alt="Screenshot 2025-07-04 111055" src="https://github.com/user-attachments/assets/9945dd04-a64e-4c17-bcaa-7d3e643f80ce" />
 
 
-![Portfolio Screenshot](./screenshot.png)
-
 ## 🔍 About Me
 
 I am a **final year Computer Science Engineering student** with hands-on experience in:
